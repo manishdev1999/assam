@@ -9,8 +9,3 @@ Credentials -  Both Admin and User Side.
 Username : manishdev
 Password : Manish@19
 
-Demo Video : 
-
-User Side : DEMO
-Admin Side : DEMO
-Chatbot : DEMO
